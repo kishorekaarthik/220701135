@@ -1,8 +1,8 @@
 import axios from 'axios';
 
-// Replace with your actual credentials
-const CLIENT_ID = '0fd545c0-f70e-4a7e-beb9-0c827b31ad1d';
-const CLIENT_SECRET = 'qcMksvzADAZMJvEv';
+
+const CLIENT_ID = '// Replace with your actual credentials';
+const CLIENT_SECRET = '// Replace with your actual credentials';
 
 
 const LOGGING_API = 'http://20.244.56.144/evaluation-service/log';
